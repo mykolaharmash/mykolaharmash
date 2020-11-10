@@ -8,4 +8,6 @@ Here are some ways you can reach out:
 * [Twitter](https://twitter.com/mykola_harmash)
 * [LinkedIn](https://www.linkedin.com/in/mykolaharmash/)
 
+Check out my latest hobby-project: [git-jump](https://github.com/mykolaharmash/git-jump) - helper CLI for Git branches.
 
+![Screen recorded demo of git-jump CLI](https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/demo.gif)
