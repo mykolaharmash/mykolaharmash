@@ -1,4 +1,4 @@
-### Hey there 👋
+**Hey there 👋**
 
 I'm Mykola. Software engineer mostly focused on full-stack web development.
 
